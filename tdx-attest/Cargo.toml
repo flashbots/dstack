@@ -28,6 +28,7 @@ libc.workspace = true
 vsock = "0.5"
 
 [dev-dependencies]
+tempfile.workspace = true
 insta.workspace = true
 serde_json.workspace = true
 dcap-qvl.workspace = true
